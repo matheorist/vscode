@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these verification scripts, please cite the accompanying manuscript."
+title: "Verification scripts for partner-midword joint weight enumerators"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Yong
+    email: zyyctc@126.com
+  - family-names: Chen
+    given-names: Guangzhou
+    email: chenguangzhou0808@163.com
+repository-code: "https://github.com/matheorist/vscode"
+version: 1.0.0
+date-released: 2026-06-13
+preferred-citation:
+  type: article
+  title: "Partner-Midword Joint Weight Enumerators of Nearly Perfect 1-Covering Codes and Diamond Completely Regular Codes"
+  authors:
+    - family-names: Zhang
+      given-names: Yong
+    - family-names: Chen
+      given-names: Guangzhou
